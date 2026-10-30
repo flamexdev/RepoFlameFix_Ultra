@@ -37,3 +37,12 @@ License information will be added later.
 ---
 
 RepoFlameFix Ultra — Smarter repository maintenance. 🔥k
+
+# Icon
+<p align="center">
+  <img src="images/icon.png"
+       alt="RRFU Icon"
+       width="320"
+       height="320"
+       style="display: block; margin: auto;" />
+</p>
