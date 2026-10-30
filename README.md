@@ -49,3 +49,6 @@ Website Is For Project Information And More
        height="320"
        style="display: block; margin: auto;" />
 </p>
+
+# Ai Used?
+Yes In This Project I Used AI For Debugging, Website Design Only
