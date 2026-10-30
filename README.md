@@ -3,6 +3,7 @@
 An AI-powered repository analysis and repair platform.
 
 RepoFlameFix Ultra (RRFU) is designed to help developers analyze repositories, identify bugs, detect security vulnerabilities, and improve code with the assistance of artificial intelligence.
+### about.sh Is For Information Of Repo If Installed It And You Don't Want Open The GitHub Page For Info So You Can Just Get By Running It
 
 # ✨ Features
 
