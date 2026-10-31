@@ -1,8 +1,8 @@
-# 🔥 RepoFlameFix Ultra (RRFU)
+# 🔥 RepoFlameFix Ultra (RFFU)
 
 An AI-powered repository analysis and repair platform.
 
-RepoFlameFix Ultra (RRFU) is designed to help developers analyze repositories, identify bugs, detect security vulnerabilities, and improve code with the assistance of artificial intelligence.
+RepoFlameFix Ultra (RFFU) is designed to help developers analyze repositories, identify bugs, detect security vulnerabilities, and improve code with the assistance of artificial intelligence.
 ### about.sh Is For Information Of Repo If Installed It And You Don't Want Open The GitHub Page For Info So You Can Just Get By Running It
 
 #  Features
@@ -24,7 +24,7 @@ OpenRouter is planned as a primary AI integration, with support for additional A
 
 #  Project Status
 
-RRFU is currently under development. Features and functionality may change between releases.
+RFFU is currently under development. Features and functionality may change between releases.
 
 #  Contributions
 
@@ -44,7 +44,7 @@ Website Is For Project Information And More
 # Icon
 <p align="center">
   <img src="images/icon.png"
-       alt="RRFU Icon"
+       alt="RFFU Icon"
        width="320"
        height="320"
        style="display: block; margin: auto;" />
