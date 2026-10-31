@@ -2,7 +2,7 @@
 
 ==================================================
 
-RepoFlameFix Ultra (RRFU)
+RepoFlameFix Ultra (RFFU)
 
 ABOUT SCRIPT
 
@@ -60,7 +60,7 @@ echo -e "${RED}             ╚═╝     ${ORANGE}╚══════╝╚�
 
 echo
 center "REPOFLAMEFIX ULTRA"
-center "R R F U"
+center "R F F U"
 echo
 
 line
@@ -75,7 +75,7 @@ Project information
 section "PROJECT"
 
 item "Name       : RepoFlameFix Ultra"
-item "Short Name : RRFU"
+item "Short Name : RFFU"
 item "Category   : Developer Tool"
 item "Language   : Python"
 item "AI Focus   : Multi-provider integration"
@@ -143,7 +143,7 @@ section "PROJECT STATUS"
 
 echo -e "  ${YELLOW}● PRE-RELEASE DEVELOPMENT${RESET}"
 echo
-echo -e "  ${GRAY}RRFU is actively being developed."
+echo -e "  ${GRAY}RFFU is actively being developed."
 echo -e "  Features and functionality may change"
 echo -e "  throughout development.${RESET}"
 
@@ -153,7 +153,7 @@ echo
 line
 echo
 center "REPOFLAMEFIX ULTRA"
-center "RRFU"
+center "RFFU"
 echo
 center "BUILT FOR DEVELOPERS."
 center "POWERED BY INTELLIGENCE."
