@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to **RepoFlameFix Ultra (RRFU)** will be documented
+All notable changes to **RepoFlameFix Ultra (RFFU)** will be documented
 in this file.
 
 This project is under active development. Entries describe changes that
