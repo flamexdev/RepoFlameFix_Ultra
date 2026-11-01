@@ -24,7 +24,7 @@ OpenRouter is planned as a primary AI integration, with support for additional A
 
 #  Project Status
 
-RFFU is currently under development. Features and functionality may change between releases.
+RFFU is currently under development. Features and functionality may change between releases. 0.1.0 Is Here 
 
 #  Contributions
 
