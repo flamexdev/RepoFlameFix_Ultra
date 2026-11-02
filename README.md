@@ -51,4 +51,5 @@ Website Is For Project Information And More
 </p>
 
 # Ai Used?
-Yes In This Project I Used AI For Debugging, Website Design Only
+Yes In This Project I Used AI For Debugging, Website Design Only 
+# Project Has Been Closed 
